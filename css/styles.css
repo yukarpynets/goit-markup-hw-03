@@ -155,6 +155,11 @@ body {
     background-color: var(--iris);
     border: none;
     cursor: pointer;
+    display: block;
+    min-width: 169px;
+    border-radius: 4px;
+    height: 56px;
+    margin: 0 auto;
 }
 
 .hero-btn:hover,
